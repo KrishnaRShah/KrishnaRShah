@@ -5,7 +5,9 @@
 
 - 📧 How to reach me **krishnarshah@outlook.com**
   
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/krishnarshah/).
+
+- :computer: Take a look at my [Website](https://krishnashah.netlify.app/).
 
 ## 📦 Toolbox
 
