@@ -13,13 +13,13 @@
 
 **Languages:** `Python` `Java` `C#` `JavaScript` `SQL`   
 
-**Frontend Development:** `Blazor` `React` `Syncfudion` `Bootstrap` `Material-UI`
+**Frontend Development:** `Blazor` `React` `Syncfusion` `Bootstrap`
 
-**Backend Development:** `ASP.NET` `Entity Framework` `Node.js` `Express.js`
+**Backend Development:** `ASP.NET` `Entity Framework` `Node.js` `Express.js` `Spring Boot` `Nginx` `Django`
 
 **Database:** `MongoDB` `Oracle` `MySQL`
 
 **Testing:** `JUnit` `NUnit` `Moq` `Postman`
 
-**Version Control & Project Management:** `Git` `GitLab` `Azure DevOps`
+**Version Control & Project Management:** `Git` `GitLab` `Azure DevOps` `Jira`
 
